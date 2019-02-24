@@ -2,14 +2,25 @@
 layout: default
 title: About
 ---
-## About {{ site.name }}
+## About Me
 
-<img class="user-avatar" src="{{ site.owner.avatar }}">
+<center>
+<img class="user-avatar" src="{{ site.owner.avatar }}" width="250" height="250">
+</center>
 
-White Paper is a very clean theme and used by users around the globe.
-It aims to be clean and really fast. Jekyll is a pretty neat platform for generating websites and applications. The effort required to setup this blog is minimal but the effect is visible from the day one.
+<br/>
 
-If you are visiting this page, it means you have configured it right and all you need to do now is to start blogging.
+Hello.
+
+My name is Ichroman Raditya Duwila, most of my family and friends call me **Didit**. I am a software developer 
+living in Indonesia, who also passionate in photography and travelling as well. I love reading too.
+
+My main programming language to use in daily basis is Java, which I have used for around 3 years. Lately, I also
+learn Groovy, Kotlin and Angular. 
+
+Currently I work as a Java developer for PT. Aprisma Wirecard.
+
+Cheers!
 
 <div class="pagination">
   {% if site.owner.linkedin %}
