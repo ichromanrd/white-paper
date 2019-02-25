@@ -1,1 +1,1 @@
-web:	jekyll serve -P 4000
+web:	jekyll serve
