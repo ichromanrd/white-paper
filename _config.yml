@@ -34,3 +34,5 @@ google_analytics:
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
+
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
