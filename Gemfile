@@ -5,3 +5,5 @@ gem "jekyll-gist"
 gem "jekyll"
 gem 'jekyll-feed'
 gem "rouge"
+gem "rake"
+ruby "2.5.1"
