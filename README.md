@@ -1,5 +1,3 @@
-
-
 # White Paper
 
 **White Paper** is a theme for Jekyll. It is built keeping content in focus and is best for writers/developers who also like to share code with their essays.
